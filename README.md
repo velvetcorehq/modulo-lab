@@ -1,2 +1,5 @@
 # modulo-lab
-Lightweight PHP utilities and helpers (modulo-lab)
+
+Lightweight `PHP` utilities maintained by @velvetcorehq.
+
+- Focus: Focused on web standards, progressive enhancement, and fast loads.
